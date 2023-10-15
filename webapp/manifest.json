@@ -40,7 +40,7 @@
 		},
 		"handleValidation": true,
 		"models": {
-			"mountains": {
+			"": {
 				"type": "sap.ui.model.json.JSONModel",
 				"dataSource": "mountains"
 			}

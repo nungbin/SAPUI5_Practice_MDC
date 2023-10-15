@@ -1,4 +1,5 @@
 <mvc:View
+	controllerName="mdc.tutorial.controller.Mountains"
 	height="100%"
 	displayBlock="true"
 	xmlns="sap.m"
